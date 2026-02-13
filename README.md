@@ -1,4 +1,4 @@
-# Soteria
+## Soteria
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -96,10 +96,7 @@ Le projet suit une approche experimentale et iterative :
 ```
 Soteria/
 ├── README.md                  # Ce fichier
-├── Subject.md                 # Document projet detaille
 ├── LICENSE                    # CC BY-NC-SA 4.0
-├── TODO.md                    # Taches restantes
-├── CHANGELOG.md               # Journal des modifications
 ├── Proxmox/                   # Documentation Proxmox
 ├── OPNSENSE/                  # Documentation OPNsense
 ├── FreeIPA/                   # Documentation FreeIPA
